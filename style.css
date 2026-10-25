@@ -225,6 +225,7 @@ h1 {
     animation: fadeInUp 0.4s ease forwards;
 }
 
+
 @media (max-width: 768px) {
     .container {
         margin: 10px;
